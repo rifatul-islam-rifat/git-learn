@@ -6,7 +6,7 @@ public class app{
         int sum = 0;
         sum += sum + result;
         int mul = 0;
-        mul -= mul - result;
+        mul *=  result;
         System.out.println("The result is : " + result);
         System.out.println("The sum is : " + sum);
         System.out.println("The mul is : " + mul);
