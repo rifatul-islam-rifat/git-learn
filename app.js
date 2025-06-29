@@ -3,5 +3,8 @@ let b = 20;
 let result = a+b;
 let sum = 0;
 sum += result;
+let mul = 0;
+mul -= result;
 console.log("The result is : " + result);
 console.log("The final sum is : " + sum);
+console.log("The mul is : " + mul)
