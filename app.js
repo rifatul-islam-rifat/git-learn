@@ -7,4 +7,4 @@ let mul = 0;
 mul -= result;
 console.log("The result is : " + result);
 console.log("The final sum is : " + sum);
-console.log("The mul is : " + mul)
+console.log("The mul is : " + mul);
